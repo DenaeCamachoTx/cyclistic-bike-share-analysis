@@ -45,6 +45,10 @@ The original dataset contained 6,115,982 trips. The cleaning process removed dup
 4. Offer trial memberships or limited-time conversion discounts during peak riding months.
 5. Use location-based promotions near Navy Pier and other popular casual-rider stations.
 
+## Dashboard Preview
+
+![Cyclistic Station Analysis Dashboard](Tableau_Station_Analysis.png)
+
 ## Interactive Dashboards
 
 * [Looker Studio Dashboard](https://lookerstudio.google.com/reporting/c46d3db8-7ef6-46ab-8e1c-5d352520da02)
