@@ -52,7 +52,7 @@ The original dataset contained 6,115,982 trips. The cleaning process removed dup
 ## Interactive Dashboards
 
 * [Looker Studio Dashboard](https://lookerstudio.google.com/reporting/c46d3db8-7ef6-46ab-8e1c-5d352520da02)
-* Tableau Public Dashboard — link will be added here
+* [Tableau Public Dashboard](https://public.tableau.com/views/CyclisticBike-ShareAnalysis_17893314207440/StationAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Full Case Study
 
