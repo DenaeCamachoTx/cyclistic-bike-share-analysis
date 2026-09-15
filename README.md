@@ -58,6 +58,10 @@ The original dataset contained 6,115,982 trips. The cleaning process removed dup
 
 [View the complete Cyclistic case study](Cyclistic_Case_Study.pdf)
 
+## Project Presentation
+
+[View the Cyclistic project presentation](Cyclistic_Case_Study_Presentation.pdf)
+
 ## Author
 
 Denae Camacho
